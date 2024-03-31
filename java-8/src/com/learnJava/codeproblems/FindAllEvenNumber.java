@@ -1,4 +1,4 @@
-package com.learnjava.streams;
+package com.learnJava.codeproblems;
 
 import java.util.Arrays;
 import java.util.List;
